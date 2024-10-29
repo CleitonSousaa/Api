@@ -1,2 +1,7 @@
-# All Java
-aplicações que permite interagir e executar comandos diretamente no terminal sem interface.
+# Descrição
+
+- CODIGO DE PROJETOS PEQUENOS
+- RESOLVE UM PROBLEMA
+- NÃO TEM INTERFACE 
+- PEDAÇOS DE CODIGO
+- FUNÇÕES 
