@@ -44,7 +44,7 @@ npm install @types/node --save-dev
 ```
 "dev": "tsx watch src/server.ts"
 ```
-- passo 15
+- passo 15 - criar as rotas e importar no server
 - passo 16
 - passo 17
 - passo 18
