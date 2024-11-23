@@ -1,0 +1,21 @@
+{
+  "name": "projeto4",
+  "version": "1.0.0",
+  "description": "- passo 01 - Instalar o NodeJS\r - passo 02 - Instalar o Insominia\r - passo 04 - criar pasta do projeto e iniciar o projeto   \r ```\r npm init -y\r ```\r - passo 05 - instalar o typescript\r ```\r npm install typescript --save-dev\r ```\r - passo 06 - configurar o typescript dentro do projeto\r ```\r tsc --init\r ```\r - passo 07 - criar pasta src\r ```\r /src\r ```\r - passo 08 - criar os arquivo dentro da pasta src\r ```\r /src/server.ts\r /src/routes.ts\r ```\r - passo 09 - instalar o fastify para criar apis\r ```\r npm install fastify @fastify/cors\r ```\r - passo 10 - instalar a lib para rodar typescript\r ```\r npm install tsx\r ```\r - passo 11 -\r ```\r ```\r - passo 12 -\r ```\r ``` \r - passo 13 -\r ```\r ```\r - passo 14\r - passo 15\r - passo 16\r - passo 17\r - passo 18\r - passo 19\r - passo 20\r - passo 21",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.3",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "fastify": "^5.1.0",
+    "tsx": "^4.19.2"
+  }
+}
