@@ -45,9 +45,32 @@ npm install @types/node --save-dev
 "dev": "tsx watch src/server.ts"
 ```
 - passo 15 - criar as rotas e importar no server
-- passo 16
-- passo 17
-- passo 18
-- passo 19
-- passo 20
-- passo 21
+
+- passo 16 - criar e configurar o banco de dados mongo db atlas
+
+
+- passo 17 - instalar o prisma para conexao com o banco de dados 
+
+- passo 18 - instalar o prisma
+```
+npm install prisma --save-dev
+```
+- passo 19 - instalar o prisma cliente
+```
+npm install @prisma/client
+```
+- passo 20 - iniciar o prisma 
+```
+npx prisma init
+```
+- passo 21 - gerar o banco de dados 
+```
+npx prisma generate
+```
+
+- passo 22 - testar se o prisma conectou com o banco 
+```
+npx prisma studio
+```
+
+37:04
